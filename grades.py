@@ -1,7 +1,7 @@
 print("Enter your grade: ")
 grade = int(input())
 if grade >= 90:
-    print("Excellent! You got an A")
+    print("Perfect! You got an A")
 elif grade >= 80:
     print("You got a B")
 elif grade >= 70:
